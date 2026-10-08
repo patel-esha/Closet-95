@@ -1,0 +1,6 @@
+server.exe
+*.o
+closet.db
+uploads/
+.vscode/
+output/
